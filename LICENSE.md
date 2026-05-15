@@ -1,4 +1,4 @@
-# 
+# automatic nft wash trading bot | wash-trading-detection + arbitrage-opportunities is the best nft wash trading bot, featuring wash-trading-detection and arbitrage-opportunities.
 
 
 
